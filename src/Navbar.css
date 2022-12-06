@@ -3,6 +3,7 @@ header{
   font-family: Garamond;
   font-size: x-large;
   margin: 10px;
+  margin-left: 10px;
   display: flex;
   border-bottom: dotted;
   padding-bottom: 5px;
@@ -27,7 +28,7 @@ header{
 }
 
 .navLink{
-  padding-left: 1%;
+  padding-left: 0%;
   padding-right: 1%;
   text-decoration: none;
 }
