@@ -25,7 +25,7 @@ function Home() {
             <div className='brickHomepage'>
                 <img className='sampleImg' src='https://i.imgur.com/IhzeKR3.png'></img>
                 <div class="overlay">
-                    <div class="overlayText">andi design</div>
+                    <div class="overlayText">andi</div>
                 </div>
             </div>
             </a>

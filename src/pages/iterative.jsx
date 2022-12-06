@@ -4,7 +4,7 @@ import './design.css';
 function Iterative() {
     return (
         <body>
-            <div className='title'>Andi Mobile Design</div>
+            <div className='title'>Andi Redesign</div>
             <div>
                 For this project, our group chose Andi, a startup using AI & language models to create a better search engine.
                 Instead of the the SEO optimized, advertisement cluttered, and data tracking current state of online search engines,
